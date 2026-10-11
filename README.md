@@ -167,4 +167,4 @@ Press `Ctrl+C` in the Windows terminal to stop the Python client. Stop the Riva 
 
 ## License
 
-No license is specified yet. Add a license before publishing if you want others to know how they may use, modify, and redistribute this project.
+MIT license.
